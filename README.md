@@ -7,9 +7,9 @@ roblessergioelias@gmail.com
 ![perfil](https://github.com/user-attachments/assets/b5ba4a26-b4d5-416a-9ec7-9885861fdab7)
 
 
-Mi nombre es Sergio Elias Robles Ignacio, soy estudiante de quinto semestre de la Licenciatura en Informática en la Universidad de la Sierra Juárez (UNSIJ). Los lenguajes de programación que me gustaría aprender con detalle son Python, JavaScript, Java, SQL, Ensamblador y HTML. Los lenguajes que he utilizado hasta el momento son C++, C, Java, Ensamblador y HTML. Además, las herramientas que he usado incluyen Visual Studio y PyCharm. Cabe mencionar que actualmente soy estudiante en estas áreas.
+Mi nombre es Sergio Elias Robles Ignacio, soy estudiante de sextoo semestre de la Licenciatura en Informática en la Universidad de la Sierra Juárez (UNSIJ). Los lenguajes de programación que me gustaría aprender con mas a detalle son Python, JavaScript, Java, SQL, Ensamblador y HTML. Los lenguajes que he utilizado hasta el momento son C++, C, Java, Ensamblador, Python y flutter. Además, las herramientas que he usado incluyen Visual Studio, PyCharm ApacheNetBeans. Cabe mencionar que actualmente soy estudiante en estas áreas, actualmente trabajo en el sistema operativo Linux, esto para poder tener conocimiento del mismo.
 
-Entre mis habilidades destacan la creatividad, el trabajo en equipo, la empatía y la comunicación. Uno de mis logros más importantes es haber llegado al quinto semestre de la carrera.
+Entre mis habilidades destacan la creatividad, el trabajo en equipo, la empatía y la comunicación. Uno de mis logros más importantes es haber llegado al sexto semestre de la carrera.
  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eliasrobles437) 
